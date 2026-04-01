@@ -2254,7 +2254,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-**Júnior Martins**
+**Júnior Moreira Martins**
 
 Projeto de exemplo para demonstrar o uso do Docker Compose.
 
